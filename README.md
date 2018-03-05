@@ -977,3 +977,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+This repository copy of https://github.com/ozum/sequelize-pg-generator
+
+**_I see in this package more bugs_**
+
+
+_I'm trying to solve these problems_
