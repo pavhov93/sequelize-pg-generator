@@ -33,11 +33,11 @@
     "meta"
   ],
   "author": {
-    "name": "Özüm Eldoğan"
+    "name": "Pav"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ozum/sequelize-pg-generator.git"
+    "url": "https://github.com/pavhov93/sequelize-pg-generator.git"
   },
   "license": "MIT",
   "devDependencies": {
@@ -59,16 +59,15 @@
     "js-beautify": "^1.5.4",
     "json-stable-stringify": "^1.0.0",
     "lodash": "^2.4.1",
-    "pg-hstore": "^2.3.2",
     "pg-structure": "^1.11.3",
     "swig": "^1.4.2",
     "winston": "^0.8.3"
   },
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/ozum/sequelize-pg-generator/issues"
+    "url": "https://github.com/pavhov93/sequelize-pg-generator.git/issues"
   },
-  "homepage": "https://github.com/ozum/sequelize-pg-generator",
+  "homepage": "https://github.com/pavhov93/sequelize-pg-generator",
   "_id": "sequelize-pg-generator@0.1.0",
   "_shasum": "4a9deecd8712210defedf25a69548281547363d8",
   "_from": "."
